@@ -6,3 +6,8 @@ print(name)
 
 lol = 'lol'
 print(lol)
+
+def newfn():
+    print("Hey, I am a new function.")
+
+newfn()
