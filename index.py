@@ -30,3 +30,9 @@ def newfeatureaddB():
     print("This is a new feature B")
 
 newfeatureaddB()
+
+def newfeatureaddC():
+    print("This a new feature")
+    print("This is a new feature C")
+
+newfeatureaddC()
