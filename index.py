@@ -7,7 +7,8 @@ print(name)
 lol = 'lol'
 print(lol)
 
-def newfn():
-    print("Hey, I am a new function.")
+age = int(input())
+def isabove18(age):
+    return age>18
 
-newfn()
+print(isabove18(age))
