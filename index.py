@@ -24,3 +24,9 @@ def newfeatureadd():
     print("This is a new feature A")
 
 newfeatureadd()
+
+def newfeatureaddB():
+    print("This a new feature")
+    print("This is a new feature B")
+
+newfeatureaddB()
