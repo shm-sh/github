@@ -12,3 +12,9 @@ def isabove18(age):
     return age>18
 
 print(isabove18(age))
+
+def sayname():
+    name = input()
+    print (f"my name is {name}")
+
+sayname()
