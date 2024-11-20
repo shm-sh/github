@@ -18,3 +18,8 @@ def sayname():
     print (f"my name is {name}")
 
 sayname()
+
+def newfeatureadd():
+    print("This a new feature")
+
+newfeatureadd()
