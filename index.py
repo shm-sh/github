@@ -21,5 +21,6 @@ sayname()
 
 def newfeatureadd():
     print("This a new feature")
+    print("This is a new feature A")
 
 newfeatureadd()
